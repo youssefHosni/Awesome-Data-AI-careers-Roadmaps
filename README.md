@@ -1,18 +1,15 @@
 # Awseome-Data-AI-careers-Roadmaps
 A curated list of roadmaps covering different skills in data science & AI careers and skills.
 
-[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awseome-Data-AI-careers-Roadmaps
-.svg)](https://github.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg)](https://github.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awseome-Data-AI-careers-Roadmaps
-.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/network/)
-[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awseome-Data-AI-careers-Roadmaps
-.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/stargazers/)
 
 ![alt_text](https://github.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/blob/main/Product-Roadmap-overview.jpg)
 
