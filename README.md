@@ -1,4 +1,4 @@
-# Awseome-Data-AI-careers-Roadmaps
+# Awseome-Data-AI-careers-Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of roadmaps covering different skills in data science & AI careers and skills.
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg)](https://github.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/blob/master/LICENSE)
