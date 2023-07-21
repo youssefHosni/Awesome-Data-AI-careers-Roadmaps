@@ -15,6 +15,10 @@ A curated list of roadmaps covering different skills in data science & AI career
 
 # Data Science 
 * [Kickstart Your Data Science Career with this Comprehensive and Easy-to-Follow Roadmap](https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b?sk=65e910a94a98f5405c67f34495726e7d)
+
+# Data Analytics 
+* [Comprehensive Data Analytics Roadmap for 2023 With Free Resources](https://levelup.gitconnected.com/comprehensive-data-analytics-roadmap-for-2023-with-free-resources-adfefc0d0d7f?sk=aa7002668042fdde255f1858ecbd7669)
+
 ## Programming
 * [Ultimate Free Python For Data Science Roadmap In 2023](https://levelup.gitconnected.com/ultimate-free-python-for-data-science-roadmap-in-2023-728daa9581de?sk=cb99b0bae60f34d4d3a6160053fae087)
 * [Software Engineering Roadmap For Data Scientists](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef)
