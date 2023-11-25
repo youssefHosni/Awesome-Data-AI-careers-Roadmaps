@@ -30,5 +30,12 @@ A curated list of roadmaps covering different skills in data science & AI career
 
 # Natural Language Processing 
 * [From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)
+
 # Computer Vision
 * [Mastering & Understanding Computer Vision: A Comprehensive Free Study Roadmap for 2023](https://levelup.gitconnected.com/a-comprehensive-computer-vision-free-study-roadmap-for-2023-3e95a6d656e7?sk=f10f9e99b5efb90a48bdc69573e581e2)
+
+# Generative AI
+
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 1]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]]()
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 3]]()
