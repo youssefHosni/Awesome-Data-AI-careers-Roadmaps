@@ -37,5 +37,5 @@ A curated list of roadmaps covering different skills in data science & AI career
 # Generative AI
 
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 1]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
-* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]]()
-* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 3]]()
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from-56d?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 3]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from-351?r=1sqbmi&utm_campaign=post&utm_medium=web)
