@@ -11,7 +11,6 @@ A curated list of roadmaps covering different skills in data science & AI career
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awseome-Data-AI-careers-Roadmaps.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/stargazers/)
 
-![alt_text](https://github.com/youssefHosni/Awseome-Data-AI-careers-Roadmaps/blob/main/Product-Roadmap-overview.jpg)
 
 # Data Science 
 * [Kickstart Your Data Science Career with this Comprehensive and Easy-to-Follow Roadmap](https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b?sk=65e910a94a98f5405c67f34495726e7d)
