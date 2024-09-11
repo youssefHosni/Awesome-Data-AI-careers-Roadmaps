@@ -38,3 +38,6 @@ A curated list of roadmaps covering different skills in data science & AI career
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 1]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 2]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from-56d?r=1sqbmi&utm_campaign=post&utm_medium=web)
 * [Generative AI Learning Roadmap: From Absolute Beginner to Practioner [Part 3]](https://open.substack.com/pub/youssefh/p/generative-ai-learning-roadmap-from-351?r=1sqbmi&utm_campaign=post&utm_medium=web)
+# Large Language Models 
+* [Complete LLM Roadmap: From Beginner to Advanced](https://open.substack.com/pub/youssefh/p/complete-llm-roadmap-from-beginner?r=1sqbmi&utm_campaign=post&utm_medium=web)
+* [My New E-Book: LLM Roadmap from Beginner to Advanced Level](https://open.substack.com/pub/youssefh/p/my-new-e-book-llm-roadmap-from-beginner?r=1sqbmi&utm_campaign=post&utm_medium=web)
